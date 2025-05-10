@@ -2,3 +2,6 @@ docker-compose.yaml
 mpd/*
 storage/cachedir/*  
 storage/workdir/*
+!mpd/.gitkeep
+!storage/cachedir/.gitkeep
+!storage/workdir/.gitkeep
